@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --maroon-primary: #800000;
 }
 
 @theme inline {
@@ -24,3 +25,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+html{
+  scroll-behavior: smooth;
+}
+
+
