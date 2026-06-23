@@ -37,8 +37,6 @@ export default function Home() {
                 <Berita />
             </section>
 
-            {/* Footer ditambahkan di sini */}
-            <Footer />
         </main>
         </>
     );
